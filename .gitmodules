@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:optimisticninja/optimisticninja-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:optimisticninja/optimisticninja-frontend.git
